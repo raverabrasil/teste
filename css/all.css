@@ -1346,7 +1346,7 @@ button.close
 .fundo-cinza-products
 {
 	background-color: #e8e8e8;
-	background-image: url(http://maxmoringa.com.br/loja/pattern.png);
+	background-image: url();
 	position: relative;
 }
 @media (min-width: 1023px)
@@ -1406,7 +1406,7 @@ button.close
 .fundo-preto
 {
 	background-color: #0f0f0f;
-	background-image: url(http://maxmoringa.com.br/loja/pattern.png);
+	background-image: url();
 	position: relative;
 }
 @media (min-width: 1023px)
@@ -1466,7 +1466,7 @@ button.close
 .fundo-preto2
 {
 	background-color: #0f0f0f;
-	background-image: url(http://maxmoringa.com.br/loja/pattern.png);
+	background-image: url();
 	position: relative;
 }
 .fundob
@@ -1637,7 +1637,7 @@ button.close
 }
 .btn-verde:focus,.btn-verde:hover
 {
-	background-image: url(http://maxmoringa.com.br/loja/fundo-btn-verde-hover.jpg);
+	background-image: url();
 	box-shadow: none;
 	color: #fff;
 }
@@ -1659,11 +1659,11 @@ button.close
 }
 .btn-verde:active
 {
-	background-image: url(http://maxmoringa.com.br/loja/fundo-btn-verde-click.html);
+	background-image: url();
 }
 .btn-products
 {
-	background-image: url(http://maxmoringa.com.br/loja/fundo-btn-verde.jpg);
+	background-image: url();
 	border-radius: 6px;
 	box-shadow: 0 2px 0 #1f3762,inset 0 1px 3px rgba(255,255,255,.7);
 	cursor: pointer!important;
@@ -1757,7 +1757,7 @@ h1
 }
 .sprite-product-page
 {
-	background-image: url(http://maxmoringa.com.br/loja/product-page-icons.png);
+	background-image: url();
 }
 .sprite-product-page.icon-1,.sprite-product-page.icon-2,.sprite-product-page.icon-3,.sprite-product-page.icon-4
 {
@@ -2634,7 +2634,7 @@ h1
 .products header
 {
 	background-color: #c40000 !important;
-	background-image: url(http://maxmoringa.com.br/loja/pattern-products.png);
+	background-image: url();
 	height: 33px;
 	position: relative;
 }
@@ -2711,7 +2711,7 @@ h1
 .products header .box-desconto
 {
 	background-color: #2993d1;
-	background-image: url(http://maxmoringa.com.br/loja/pattern-products.png);
+	background-image: url();
 	color: #fff;
 	font-family: Teko,sans-serif;
 	font-size: 28px;
